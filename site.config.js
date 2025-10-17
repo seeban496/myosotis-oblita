@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Δ",
+    name: "Hi",
     image: "./avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "One should comepletely cut ties with someone they’ve already let go, so stop giving them any pointless hopes.",
+    bio: "An Ordinary Joke",
     email: "",
     linkedin: "",
     github: "",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `What`,
+      name: `myosotis_oblita`,
       href: "https://github.com/seeban496/myosotis_oblita",
     },
   ],
