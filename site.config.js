@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `myosotis_oblita`,
-      href: "https://github.com/seeban496/myosotis_oblita",
+      name: `myosotis-oblita`,
+      href: "https://github.com/seeban496/myosotis-oblita",
     },
   ],
   // blog setting (required)
