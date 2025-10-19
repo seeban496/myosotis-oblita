@@ -4,22 +4,22 @@ const CONFIG = {
     name: "Ignatius",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "An Ordinary Joke",
-    email: "",
+    bio: "Keep being empty",
+    email: "ignatius0dev@gmail.com",
     linkedin: "",
     github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `myosotis-oblita`,
-      href: "https://github.com/seeban496/myosotis-oblita",
+      name: `This Site`,
+      href: "https://leergeschwaetz.vercel.app",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Stilled Current",
-    description: "FMN should be playable",
+    title: "Wasser ohne Lauf",
+    description: "Personal Posts",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
