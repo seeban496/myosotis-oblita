@@ -8,10 +8,12 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "pnpm dlx @cloudflare/next-on-pages@1",
     "start": "next start",
     "postbuild": "next-sitemap --config next-sitemap.config.js",
-    "lint": "next lint"
+    "lint": "next lint",
+    "preview": "pnpm run build && wrangler pages dev",
+    "deploy": "pnpm run build && wrangler pages deploy"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
